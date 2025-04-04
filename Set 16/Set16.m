@@ -58,7 +58,7 @@ quiver(X, Y, Bx, By);
 xlabel('X (m)'); % Label x axis
 ylabel('Y (m)', "Rotation",0); % Label y axis
 
-title({'Toroid Magnetic Field Plot','Matthew Jarzynowski, 400455803'})
+title({'Toroid Magnetic Field Plot'})
 
 
 
